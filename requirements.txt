@@ -1,4 +1,5 @@
 ﻿pandas
+pillow
 numpy
 matplotlib
 seaborn
